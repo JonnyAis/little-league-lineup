@@ -1,0 +1,14 @@
+{
+    "Pitching Plan": {
+        "Inning 1": "Bennett M",
+        "Inning 2": "Bennett M",
+        "Inning 3": "Dario",
+        "Inning 4": "Dario",
+        "Inning 5": "Bennett T",
+        "Inning 6": "Bennett T"
+    },
+    "Inning Availability": {
+        "Inactive Entire Game": ["Fritz", "Asa", "George"],
+        "Partial Inactivity": {}
+    }
+}

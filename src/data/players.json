@@ -1,0 +1,64 @@
+{
+  "players": [
+    {
+      "name": "Conor",
+      "positions": ["2B", "3B", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Emerson",
+      "positions": ["2B", "3B", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Bennett T",
+      "positions": ["C", "2B", "SS", "LF", "CF", "RF", "3B"]
+    },
+    {
+      "name": "Bennett M",
+      "positions": ["P", "1B", "2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "George",
+      "positions": ["C", "1B", "LF", "CF", "RF", "P", "3B"]
+    },
+    {
+      "name": "Dario",
+      "positions": ["P", "1B", "2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Davis",
+      "positions": ["2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Ellis",
+      "positions": ["P","1B", "2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Nico",
+      "positions": ["P", "2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Theo",
+      "positions": ["C", "1B", "2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Fritz",
+      "positions": ["C", "1B", "2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Emanuel",
+      "positions": ["2B", "3B", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Asa",
+      "positions": ["2B", "3B", "LF", "CF", "RF"]
+    },
+    {
+      "name": "August",
+      "positions": ["C", "1B", "2B", "3B", "SS", "LF", "CF", "RF"]
+    },
+    {
+      "name": "Clinton",
+      "positions": ["2B", "3B", "SS", "LF", "CF", "RF"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+    "Game 1": {
+        "P": {"Dario": 2, "Bennett M": 2, "Ellis": 2},
+        "C": {"Bennett T": 2, "George": 2, "Emanuel": 1, "Clinton": 1},
+        "1B": {"George": 1, "Ellis": 1, "Theo": 1, "Bennett T": 1, "Clinton": 1, "Bennett M": 1},
+        "2B": {"Bennett M": 1, "August": 3, "Emanuel": 1, "Conor": 1},
+        "3B": {"Fritz": 1, "Nico": 2, "Emerson": 1, "Bennett T": 1, "Dario": 1},
+        "SS": {"Ellis": 1, "Davis": 2, "Dario": 1, "George": 1, "Emerson": 1},
+        "CF": {"Emanuel": 1, "Theo": 2, "Fritz": 3},
+        "LF": {"Conor": 3, "Clinton": 1, "Davis": 1, "Asa": 1},
+        "RF": {"Emerson": 2, "Asa": 2, "Emanuel": 1, "Nico": 1},
+        "Inactive": ["August"]
+    },
+    "Game 2": {
+        "P": {"Ellis": 2, "Nico": 2, "Bennett M": 1},
+        "C": {"Bennett M": 2, "George": 2, "Theo": 1},
+        "1B": {"George": 2, "Bennett M": 2, "Dario": 1},
+        "2B": {"Davis": 1, "Clinton": 1, "Emerson": 2, "Conor": 1},
+        "3B": {"Conor": 2, "Fritz": 1, "Emerson": 1, "Asa": 1},
+        "SS": {"Dario": 2, "Clinton": 1, "Ellis": 2},
+        "CF": {"Fritz": 2, "Theo": 2},
+        "LF": {"Theo": 1, "Asa": 2, "Fritz": 1, "Conor": 1},
+        "RF": {"Emerson": 1, "Nico": 2, "Asa": 1, "Davis": 1},
+        "Inactive": ["Bennett T", "Emanuel"]
+    },
+    "Game 3": {
+        "P": {"George": 2, "Bennett T": 2, "Davis": 1, "Clinton": 1},
+        "C": {"Theo": 2, "Bennett M": 2, "Nico": 2},
+        "1B": {"Bennett T": 2, "Ellis": 2, "George": 1, "Bennett M": 1},
+        "2B": {"Bennett M": 2, "Conor": 2, "Emerson": 1, "Emanuel": 1},
+        "3B": {"Davis": 1, "Clinton": 2, "Emanuel": 1, "Theo": 1, "Asa": 1},
+        "SS": {"Ellis": 1, "Davis": 1, "Nico": 1, "Clinton": 1, "George": 2},
+        "CF": {"Emerson": 1, "Nico": 1, "Asa": 1, "Emanuel": 1, "August": 1, "Ellis": 1},
+        "LF": {"Conor": 2, "Asa": 1, "Emerson": 1, "Davis": 1, "Theo": 1},
+        "RF": {"Emanuel": 1, "August": 3, "Asa": 1, "Emerson": 1},
+        "Inactive": ["Dario", "Fritz"]
+    },
+    "Game 4": {
+        "P": {"Dario": 2, "Bennett M": 2, "Davis": 1},
+        "C": {"George": 2, "Bennett T": 2, "Theo": 1},
+        "1B": {"Bennett M": 2, "George": 2, "Dario": 1},
+        "2B": {"Davis": 1, "Bennett T": 1, "Fritz": 1, "Emerson": 1, "Clinton": 1},
+        "3B": {"Theo": 2, "Emanuel": 1, "Clinton": 1, "Fritz": 1},
+        "SS": {"Ellis": 2, "Nico": 1, "August": 2},
+        "CF": {"Clinton": 2, "Fritz": 1, "Emanuel": 1, "Nico": 1},
+        "LF": {"Nico": 1, "Conor": 2, "Ellis": 2},
+        "RF": {"Emanuel": 2, "Davis": 1, "August": 1, "Emerson": 1},
+        "Inactive": ["Asa"]
+    },
+    "Game 5": {
+        "P": {"Bennett M": 2, "Bennett T": 1, "Nico": 1, "Dario": 1, "Ellis": 1},
+        "C": {"Theo": 2, "August": 2, "Bennett T": 1, "Fritz": 1},
+        "1B": {"Davis": 1, "Fritz": 1, "Nico": 1, "Dario": 2, "Ellis": 1},
+        "2B": {"Clinton": 1, "Asa": 1, "Theo": 1, "Ellis": 1, "Emanuel": 1, "Emerson": 1},
+        "3B": {"August": 1, "Emanuel": 1, "Asa": 1, "Conor": 1, "Bennett M": 1, "Nico": 1},
+        "SS": {"Nico": 1, "Davis": 2, "Fritz": 1, "Theo": 1, "Bennett T": 1},
+        "CF": {"Emerson": 1, "Conor": 1, "Davis": 1, "Asa": 1, "August": 1, "Emanuel": 1},
+        "LF": {"Conor": 1, "Clinton": 2, "Emanuel": 1, "Emerson": 1, "Asa": 1},
+        "RF": {"Bennett T": 1, "Emerson": 1, "Clinton": 1, "Fritz": 1, "Conor": 1, "Bennett M": 1},
+        "Inactive": ["George"]
+    }
+}
